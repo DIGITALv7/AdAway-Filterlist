@@ -1,4 +1,6 @@
 - [💊 Dandelion Sprout's Anti-Malware List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt)
+- [MannyMan's Ad-Block]
+https://raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/MannyMan-AdBlock.txt
 - [1024 Hosts](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts)
 - [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt)
 - [1Hosts (Mini)](https://o0.pages.dev/mini/hosts.txt) - mini - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
